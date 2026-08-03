@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书 AI 笔记"
+  short_description: "把 AI 观点、方法和案例变成有视觉、有话题的小红书图文笔记"
+  default_prompt: "使用 $xiaohongshu-ai-note，把这段 AI 内容整理成一条有观点、有画面、有话题的小红书图文笔记。"
